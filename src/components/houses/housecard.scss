@@ -1,0 +1,12 @@
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .card {
+        width: 400px;
+        height: 471px;
+        background-color: #fff;
+        box-shadow: 2px -1px 8px 1px rgba(0, 0, 0, 0.51);
+        -webkit-box-shadow: 2px -1px 8px 1px rgba(0, 0, 0, 0.51);
+    }
+}
